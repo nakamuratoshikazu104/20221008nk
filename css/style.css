@@ -227,8 +227,7 @@ a{
   }
 
   .main__access-item{
-    line-height: 44px;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .main__access-item th{
@@ -242,13 +241,12 @@ a{
   }
 
   .main__access-item td{
-    padding-left: 20px;
+    padding: 20px;
     width: 400px;
   }
 
-  .main__access-item:last-child{
-    height: 60px;
-    line-height: 16px;
+  .main__access-item:last-child {
+    line-height: 20px;
   }
 
   .main__contact{
